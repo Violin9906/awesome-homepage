@@ -37,6 +37,9 @@ A highly adaptable and resourceful multidimensional traveler with hands-on exper
 *   **Resource Management:** Expert in Mora budgeting, artifact optimization, and character ascension material farming. Highly efficient at completing daily commissions for rewards.
 *   **Languages:** Fluent in the Common Language of Teyvat. Retained knowledge of native extraterrestrial language. Paimon-ese comprehension: Native level.
 
+<!-- Control the page breaks when print -->
+<NewPage />
+
 ## Education
 
 ### <FlexSpan style="justify-content: space-between"><span>University of Applied Technology of Teyvat</span><span>2020.09 — Present</span></FlexSpan>

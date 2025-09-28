@@ -44,6 +44,7 @@ export default defineUserConfig({
     registerComponentsPlugin({
       components: {
         FlexSpan: path.resolve(__dirname, "./components/FlexSpan.vue"),
+        NewPage: path.resolve(__dirname, "./components/NewPage.vue")
       }
     }),
   ],
