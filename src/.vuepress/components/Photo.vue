@@ -21,5 +21,7 @@ const alt = (() => {
     margin-left: auto;
     border-radius: 50%;
     height: 8rem;
+    width: 8rem;
+    object-fit: cover;
 }
 </style>
